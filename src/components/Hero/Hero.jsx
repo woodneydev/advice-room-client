@@ -9,7 +9,7 @@ const Hero = ({ heroConfig = {} }) => {
       <div className="relative isolate overflow-hidden">
         <img
           alt=""
-          src="https://images.unsplash.com/photo-1502444330042-d1a1ddf9bb5b?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          src="https://cdn.pixabay.com/photo/2016/09/29/13/08/planet-1702788_1280.jpg"
           className="absolute inset-0 -z-10 size-full object-cover"
         />
         <div
